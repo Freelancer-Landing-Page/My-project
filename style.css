@@ -1,0 +1,238 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  flex-direction: column;
+  display: flex;
+  background: url(img/bg.png);
+  height: 1260px;
+}
+
+header .icons {
+  text-align: right;
+  padding-right: 65px;
+  padding-top: 65px;
+  flex-direction: column;
+  opacity: 0.65;
+}
+
+#bottom {
+  padding-bottom: 30px;
+}
+
+.bottom__1 {
+  padding-bottom: 10px;
+}
+
+.search {
+  padding-right: 5px;
+}
+
+header .main__weclome {
+  text-align: center;
+  padding: 120px 0 337px 0;
+  color: #666666;
+  font-family: "aileronRegular";
+}
+
+
+header .welcome {
+  padding-bottom: 45px;
+}
+
+#mark {
+  color: #d63c37;
+  opacity: 1;
+}
+
+header .padding__p {
+  font-size: 18px;
+  padding-bottom: 17px;
+  opacity: 0.80;
+}
+
+.photo {
+  width: 100%;
+}
+
+header {
+  color: #f6f6f6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main {
+  background: #f6f6f6;
+}
+
+main .h__main {
+  text-align: center;
+  font-weight: normal;
+  padding-top: 250px;
+}
+
+#mark__1 {
+  color: #d63c37;
+  text-decoration: underline;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+main .main_about {
+  display: flex;
+}
+
+.main__position__p {
+  padding-top: 75px;
+}
+
+.main__p {
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: "aileronRegular";
+
+}
+
+.main__photo {
+  padding-right: 130px;
+  padding-top: 215px;
+}
+
+.main__p__color {
+  color: #d63c37;
+  padding-top: 55px;
+  font-size: 18px;
+}
+
+main .about__right {
+  padding: 15px 0 15px 0;
+}
+
+.color__main {
+  color: #666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color: #d63c37;
+}
+
+footer .h__main1 {
+  text-align: center;
+  font-weight: normal;
+  padding-top: 250px;
+}
+
+#mark__1 {
+  color: #d63c37;
+  text-decoration: underline;
+}
+
+.wrapper1 {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+footer .main_about1 {
+  display: flex;
+}
+
+.main__position__p {
+  padding-top: 75px;
+}
+
+.main__p1 {
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "aileronRegular";
+
+  color: #333;
+}
+
+.main__p__color {
+  color: #d63c37;
+  padding-top: 55px;
+  font-size: 18px;
+}
+
+footer .about__right1 {
+  text-align: right;
+  padding-left: 200px;
+
+}
+
+footer .about__left1 {
+  padding-left: 75px;
+  padding-right: 50px;
+  text-align: right;
+}
+
+.color__main {
+  color: #666;
+}
+
+#mark1 {
+  color: white;
+  text-decoration: underline;
+  font-weight: normal;
+  font-family: "aileronRegular";
+}
+.padding__p {
+  padding-bottom: 50px;
+}
+
+.font__bold {
+  font-weight: bold;
+  font-size: 24px;
+  padding-bottom: 15px;
+}
+
+.padding_bottom {
+  padding-bottom: 200px;
+}
